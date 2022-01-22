@@ -1,4 +1,4 @@
-# Download google slide as SVG
+# Download google slides as SVG
 
 - Download view only slides as svg files
 
