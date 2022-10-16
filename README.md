@@ -5,6 +5,10 @@
 ## Usage
 
 ```sh
+# install requirements
+pip install -r requirements.txt
+
+# run
 python3 google-slide-dl.py 'https://docs.google.com/presentation/d/e/.../pub'
 ```
 
